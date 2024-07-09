@@ -1,0 +1,21 @@
+1. Présentation générale :
+YaneCode digital est une agence digitale basée à Safi, dont l’objectif est d’aider les TPE, PME et les indépendants à créer des solutions numériques répondant au besoin cible de ses clients.
+
+
+YaneCode a vu la naissance de trois nouvelles filiales :
+
+YaneCode Robotic
+YaneCode Academy
+YaneCode GAMING
+  
+YaneCode Robotic est une boutique en ligne qui vend des équipements robotiques Arduino, Raspberry, etc.., elle propose à ses clients, la possibilité de commander différentes quantités selon leur besoin https://robotic.yanecode.com, en assurant une bonne qualité du produit.
+
+YaneCode Academy https://academy.yanecode.com, est une plateforme de formations en ligne certifiantes, a pour but d’initier les étudiants ou bien les diplômés à acquérir de nouvelles compétences dans le monde de l’informatique (développement web/ dev mobile/ design/ Robotic) pour une meilleure insertion dans le marché du travail.
+
+YaneCode Gaming est une filiale dédiée au développement des jeux vidéos et à l'organisation de compétitions e-sport. https://gaming.yanecode.com, YaneCode Gaming s'intéresse à promouvoir la culture du jeu vidéo et à offrir une plateforme pour les développeurs et les joueurs passionnés.
+
+2. Domaines des services :
+DevWeb	        Dev Desktop	Dev Mobile	Dev Mobile
+IA / iOT	Cloud	        Sales Force	Motion Graphique
+
+Réalisé par TAOUSSI Jamal                 © YaneCode 2024
